@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "201725373434",
+    "firebase_url": "https://mini-quiz-2ca69.firebaseio.com",
+    "project_id": "mini-quiz-2ca69",
+    "storage_bucket": "mini-quiz-2ca69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201725373434:android:1306d4b363ac02b6b05243",
+        "android_client_info": {
+          "package_name": "com.example.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201725373434-ig71ff3qvvenjlb4njrkum81g051156k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwxKItdM-gJIZm5zajjk9WGMK1qoNNqes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201725373434-ig71ff3qvvenjlb4njrkum81g051156k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
